@@ -1,0 +1,19 @@
+1. First follow Tutorial.txt
+
+2. When done, go to main folder and click 'start.bat' -> This will start your bot
+
+*********************************
+
+To Start the bot you have 2 options:
+
+double click start.bat - this will start the bot while keeping the console open (but bot may crash and not restart itself) -> Stop the bot by closing start.bat
+
+double click start forever.bat - this will start the bot while keeping the console closed (but bot will restart itself if it crashes) -> To stop the bot, double click stop.bat
+
+* If you want to make changes in the config (for example card rates), stop the bot, then go to config and make whatever changes you want, then start the bot again. 
+
+■ ■ ■ ■ ■  Created By mfw (https://steamcommunity.com/id/mfwBan) ■ ■ ■ ■ ■ 
+■ ■ ■ ■ ■  For releasing this for free, if you'd like to donate, please use the information below! ■ ■ ■ ■ ■ 
+
+■ ■  Bitcoin : 38W4jPsu9xZCFptbAK6PERCPBiXM4UdxaV
+■ ■  CashApp : $mfwBan

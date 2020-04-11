@@ -1,0 +1,26 @@
+■ 0) Download Notepad++ here : https://notepad-plus-plus.org/downloads/
+
+■ 1) First thing first: Install NodeJS from here: https://nodejs.org/en/download/
+
+■ 2) Download & install Steam Desktop Authenticator here: https://github.com/Jessecar96/SteamDesktopAuthenticator and scroll down to see the instructions!
+	
+1: Go to the SDA (Steam Desktop Authenticator) directory. If you have encryption disabled go to step 3.
+2: Open SDA and hit "Manage Encryption". Fill in your encryption key and when asked to create a new one leave the text box blank. This will disable encryption.
+3: Head over to the maFiles folder and open the file named after your accounts SteamID64.
+4: Search the file for shared_secret:"XXXXXXXXXXXXXX=", instead of XXX it should have a code there, it always ends with =
+5: Do the same for identity_secret, it will look similar.
+6. Go to config (found in SETTINGS folder) and fill in your identity_secret & shared_secret
+7. You're gonna need a Steam API Key. Get it here:  https://steamcommunity.com/dev/apikey (if it asks for a domain name, simply put in 127.0.0.1 or localhost)
+
+■ 3) go to SETTINGS folder, and right-click + edit config.js. Fill in all of the required fields (Take your time filling it all in and don't make mistakes, it's a very important step)
+
+■ 4) If you don't want to host your bot on a server, simply go to the text file named 'How to start the bot'
+
+■ 5) Once you're done go to the main directory and click on "start", or go to the text file named 'How to start the bot'
+
+
+■ ■ ■ ■ ■  Created By mfw (https://steamcommunity.com/id/mfwBan) ■ ■ ■ ■ ■ 
+■ ■ ■ ■ ■  For releasing this for free, if you'd like to donate, please use the information below! ■ ■ ■ ■ ■ 
+
+■ ■  Bitcoin : 38W4jPsu9xZCFptbAK6PERCPBiXM4UdxaV
+■ ■  CashApp : $mfwBan
