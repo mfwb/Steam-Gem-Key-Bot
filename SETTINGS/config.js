@@ -3,6 +3,8 @@
 
 // ■ ■  Bitcoin : 38W4jPsu9xZCFptbAK6PERCPBiXM4UdxaV
 // ■ ■  CashApp : $mfwBan 
+// ■ ■  Dogecoin : A6vcbwZGpADw1ai9SekPFXDkVsGNJY45Py
+// ■ ■  Litecoin : 34hn5T1rHCDn8x39HMgJWDjcXKVjsBoJvi
 
 
 
