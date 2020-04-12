@@ -15,4 +15,12 @@ Bot will Buy and Sell Emoticons and Backgrounds.
 
 ■ ■  CashApp : $mfwBan
 
+■ ■  Dogecoin : A6vcbwZGpADw1ai9SekPFXDkVsGNJY45Py
+
+■ ■  Litecoin : 34hn5T1rHCDn8x39HMgJWDjcXKVjsBoJvi
+
+
 Thank you for taking the time to read this!
+
+
+
