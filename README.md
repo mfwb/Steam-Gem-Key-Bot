@@ -1,3 +1,6 @@
+# Yes I take Custom Requests. Add mfw#0666 on discord.
+
+
 # Steam-Gem-Key-Bot
 Free Release of my Gem/Key Steam Bot
 I am releasing this for free simple to stop the hidden nature of these things!
