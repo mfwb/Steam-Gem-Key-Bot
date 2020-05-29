@@ -6,6 +6,7 @@
     "author": "https://steamcommunity.com/id/mfwBan",
     "license": "ISC",
     "dependencies": {
+        "forever": "^0.15.3",
         "install": "^0.12.2",
         "lodash": "^4.17.11",
         "npm": "^6.7.0",
