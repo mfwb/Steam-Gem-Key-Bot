@@ -3,7 +3,7 @@
 
 # Steam-Gem-Key-Bot
 Free Release of my Gem/Key Steam Bot
-I am releasing this for free simple to stop the hidden nature of these things!
+I am releasing this for free simply to stop the hidden nature of these things!
 
 What will this bot do?
 
