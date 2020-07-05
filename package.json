@@ -15,5 +15,8 @@
         "steam-user": "^3.29.3",
         "steamcommunity": "^3.40.0",
         "system-sleep": "^1.3.6"
+    },
+    "devDependencies": {
+        "eslint": "^7.4.0"
     }
 }
