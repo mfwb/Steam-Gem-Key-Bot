@@ -1,22 +1,24 @@
 {
-    "name": "mfw-Gem-Bot",
-    "version": "2.6.0",
-    "description": "Trade BGs Emotes Keys Gems",
-    "main": "index.js",
-    "author": "https://steamcommunity.com/id/mfwBan",
-    "license": "ISC",
-    "dependencies": {
-        "forever": "^0.15.3",
-        "install": "^0.12.2",
-        "lodash": "^4.17.11",
-        "npm": "^6.7.0",
-        "steam-totp": "^1.5.0",
-        "steam-tradeoffer-manager": "^2.9.5",
-        "steam-user": "^3.29.3",
-        "steamcommunity": "^3.40.0",
-        "system-sleep": "^1.3.6"
-    },
-    "devDependencies": {
-        "eslint": "^7.4.0"
-    }
+  "name": "mfw-Gem-Bot",
+  "version": "2.6.0",
+  "description": "Trade BGs Emotes Keys Gems",
+  "main": "index.js",
+  "author": "https://steamcommunity.com/id/mfwBan",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^0.15.3",
+    "install": "^0.12.2",
+    "lodash": "^4.17.11",
+    "npm": "^6.7.0",
+    "steam-totp": "^1.5.0",
+    "steam-tradeoffer-manager": "^2.9.5",
+    "steam-user": "^3.29.3",
+    "steamcommunity": "^3.40.0",
+    "system-sleep": "^1.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
 }
