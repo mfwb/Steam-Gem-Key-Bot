@@ -1,4 +1,4 @@
-# Yes I take Custom Requests. Add mfw#1458 on discord.
+# Yes I take Custom Requests.
 
 
 # Steam-Gem-Key-Bot
