@@ -1,4 +1,4 @@
-# Yes I take Custom Requests. Add mfw#7627 on discord.
+# Yes I take Custom Requests. Add !᲼#0001 on discord.
 
 
 # Steam-Gem-Key-Bot
@@ -42,13 +42,7 @@ SWAPPING COMMANDS:
 ■ ■ ■ ■ ■  For releasing this for free, if you'd like to donate, please use the information below!
 
 
-■ ■  Bitcoin : 38W4jPsu9xZCFptbAK6PERCPBiXM4UdxaV
-
 ■ ■  CashApp : $mfwBan
-
-■ ■  Dogecoin : A6vcbwZGpADw1ai9SekPFXDkVsGNJY45Py
-
-■ ■  Litecoin : 34hn5T1rHCDn8x39HMgJWDjcXKVjsBoJvi
 
 
 Thank you for taking the time to read this!
