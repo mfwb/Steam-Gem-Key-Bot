@@ -1,10 +1,7 @@
 // ■ ■ ■ ■ ■  Created By mfw (https://steamcommunity.com/id/mfwBan)
 // ■ ■ ■ ■ ■  For releasing this for free, if you'd like to donate, please use the information below!
 
-// ■ ■  Bitcoin : 38W4jPsu9xZCFptbAK6PERCPBiXM4UdxaV
 // ■ ■  CashApp : $mfwBan 
-// ■ ■  Dogecoin : A6vcbwZGpADw1ai9SekPFXDkVsGNJY45Py
-// ■ ■  Litecoin : 34hn5T1rHCDn8x39HMgJWDjcXKVjsBoJvi
 
 
 
