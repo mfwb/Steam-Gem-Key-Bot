@@ -1,4 +1,4 @@
-# Yes I take Custom Requests. Add !᲼#0001 on discord.
+# Yes I take Custom Requests. Add "!᲼#1695" on discord.
 
 
 # Steam-Gem-Key-Bot
