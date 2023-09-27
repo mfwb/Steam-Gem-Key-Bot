@@ -1,4 +1,4 @@
-# Yes I take Custom Requests. Add "!᲼#1695" on discord.
+# Yes I take Custom Requests. Add "neurological." on discord. (Include the ".")
 
 
 # Steam-Gem-Key-Bot
@@ -42,7 +42,7 @@ SWAPPING COMMANDS:
 ■ ■ ■ ■ ■  For releasing this for free, if you'd like to donate, please use the information below!
 
 
-■ ■  CashApp : $mfwBan
+■ ■  CashApp : $mfwban
 
 
 Thank you for taking the time to read this!
